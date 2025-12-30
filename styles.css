@@ -3074,8 +3074,19 @@ textarea.error {
     font-size: 12px;
   }
   .currency-toggle {
-    padding: 8px 12px;
-    font-size: 12px;
+    padding: 7px 10px;
+    font-size: 11px;
+    gap: 4px;
+  }
+  
+  .currency-pill {
+    font-size: 11px;
+    letter-spacing: 0.02em;
+  }
+  
+  .currency-hint {
+    font-size: 9px;
+    opacity: 0.65;
   }
   .footer {
     padding: 36px 0 24px;
